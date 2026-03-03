@@ -1,6 +1,6 @@
 #  Weather Markov Chain Simulator
 
-A complete implementation of a **Discrete-Time Markov Chain (DTMC)** that models weather transitions between three states — **Sunny, Rainy, and Cloudy**. The project computes the **stationary distribution** using three independent methods and visually proves their convergence.
+A complete implementation of a **Discrete-Time Markov Chain (DTMC)** that models weather transitions between three states - **Sunny, Rainy, and Cloudy**. The project computes the **stationary distribution** using three independent methods and visually proves their convergence.
 
 ![Weather Markov Chain Simulator](weather_markov_results.png)
 
