@@ -261,7 +261,7 @@ The project generates a 6-panel dashboard:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Weather_Markov_Chain_Simulator.git
+   git clone https://github.com/sharpsalt/Weather_Markov_Chain_Simulator.git
    cd Weather_Markov_Chain_Simulator
    ```
 
